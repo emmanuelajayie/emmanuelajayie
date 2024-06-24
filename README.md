@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data storytelling
 - 💞️ I’m looking to collaborate on data analysis projects, volunteer or otherwise
 - 📫 Let's connect on instagram or slack
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
